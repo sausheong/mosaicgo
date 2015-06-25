@@ -1,0 +1,1 @@
+Dockerized version of the concurrent mosaic web application
